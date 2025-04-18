@@ -1,2 +1,4 @@
 # Task submittion for epoch 
-each solution is in there respective folders with datasets used
+Task 1 is K-means clustering from scratch 
+
+Task2 is OCR and sentiment analysis
